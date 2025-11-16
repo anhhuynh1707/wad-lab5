@@ -94,7 +94,7 @@ public class StudentController extends HttpServlet {
         int offset = (currentPage - 1) * recordsPerPage;
         
         // Get data
-        List<Student> students = studentDAO.getAllStudents();
+        List<Student> students = studentDAO.getStudentsPaginated(offset, recordsPerPage);
         int totalRecords = studentDAO.getTotalStudents();
         
         //Calculate total pages
