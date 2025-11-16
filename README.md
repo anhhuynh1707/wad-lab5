@@ -1,4 +1,6 @@
-**📚 STUDENT INFORMATION:**
+# 📚 STUDENT MANAGEMENT MVC
+
+## ✏ STUDENT INFORMATION:
 
 Name: Huỳnh Tuấn Anh
 
@@ -42,7 +44,7 @@ Class: G01_Lab03_Tue1234
 - Taking more time to understand how the Servlet works based on the MVC model (request, response).
 - Giving the wrong value of filter and sort. Therefore, I cannot see the filtered results by major.
 
-***💡 EXTRA FEATURES:****
+***💡 EXTRA FEATURES:***
 - Implementing CSS for search, filter, and sort functions.
 
 **⌚ TIME SPENT:** 6 hours
